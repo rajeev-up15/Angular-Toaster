@@ -1,0 +1,22 @@
+{
+  "name": "angularjs-toaster",
+  "version": "0.4.15",
+  "description": "AngularJS Toaster is a customized version of toastr non-blocking notification javascript library",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Suraj Roy"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "angular": ">1.2.6",
+    "angular-animate": "~1.2.8"
+  },
+  "_id": "angularjs-toaster@0.4.15",
+  "_npmVersion": "2.9.0",
+  "_nodeVersion": "2.0.1"
+  },
+  "directories": {},
+}
